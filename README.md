@@ -13,7 +13,7 @@ This project demonstrates the integration of React, Vue, and Tailwind CSS in a s
 
 1. Clone the repository:
    ```
-   git clone [<your-repository-url>](https://github.com/M1nkyLab/Coding-template.git)
+   git clone https://github.com/M1nkyLab/Coding-template.git
    cd my-project
    ```
 
